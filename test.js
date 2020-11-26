@@ -12,7 +12,6 @@ function createKafkaClient() {
     })
 }
 
-var a = yield createKafkaClient();
-console.log(a.);
+var a =createKafkaClient();
 let producer = new kafka.Producer(a);
 var b;
