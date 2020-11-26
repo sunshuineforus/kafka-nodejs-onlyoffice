@@ -1,0 +1,10 @@
+{
+    "kafka.url":{
+        "kafkaHost":"127.0.0.1:9092"
+    },
+    "topic-pubsub":"ds.pubsub",
+    "topic-converttask":"ds.converttask",
+    "topic-convertresponse":"ds.convertresponse",
+    "topic-convertdead":"ds.convertdead",
+    "topic-delayed":"ds.delayed"
+}
